@@ -1,0 +1,58 @@
+C:\Users\Gabriel\Documents\Projeto Versat\projetoVersat\bin\Debug\net6.0-windows\CRUD C#.exe
+C:\Users\Gabriel\Documents\Projeto Versat\projetoVersat\bin\Debug\net6.0-windows\CRUD C#.deps.json
+C:\Users\Gabriel\Documents\Projeto Versat\projetoVersat\bin\Debug\net6.0-windows\CRUD C#.runtimeconfig.json
+C:\Users\Gabriel\Documents\Projeto Versat\projetoVersat\bin\Debug\net6.0-windows\CRUD C#.dll
+C:\Users\Gabriel\Documents\Projeto Versat\projetoVersat\bin\Debug\net6.0-windows\CRUD C#.pdb
+C:\Users\Gabriel\Documents\Projeto Versat\projetoVersat\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Gabriel\Documents\Projeto Versat\projetoVersat\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Gabriel\Documents\Projeto Versat\projetoVersat\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Gabriel\Documents\Projeto Versat\projetoVersat\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Gabriel\Documents\Projeto Versat\projetoVersat\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Gabriel\Documents\Projeto Versat\projetoVersat\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Gabriel\Documents\Projeto Versat\projetoVersat\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Gabriel\Documents\Projeto Versat\projetoVersat\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Gabriel\Documents\Projeto Versat\projetoVersat\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Gabriel\Documents\Projeto Versat\projetoVersat\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Gabriel\Documents\Projeto Versat\projetoVersat\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Gabriel\Documents\Projeto Versat\projetoVersat\obj\Debug\net6.0-windows\CRUD C#.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Projeto Versat\projetoVersat\obj\Debug\net6.0-windows\projetoVersat.Form1.resources
+C:\Users\Gabriel\Documents\Projeto Versat\projetoVersat\obj\Debug\net6.0-windows\CRUD C#.csproj.GenerateResource.cache
+C:\Users\Gabriel\Documents\Projeto Versat\projetoVersat\obj\Debug\net6.0-windows\CRUD C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\Projeto Versat\projetoVersat\obj\Debug\net6.0-windows\CRUD C#.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\Projeto Versat\projetoVersat\obj\Debug\net6.0-windows\CRUD C#.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\Projeto Versat\projetoVersat\obj\Debug\net6.0-windows\CRUD C#.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Projeto Versat\projetoVersat\obj\Debug\net6.0-windows\CRUD C#.csproj.CopyComplete
+C:\Users\Gabriel\Documents\Projeto Versat\projetoVersat\obj\Debug\net6.0-windows\CRUD C#.dll
+C:\Users\Gabriel\Documents\Projeto Versat\projetoVersat\obj\Debug\net6.0-windows\refint\CRUD C#.dll
+C:\Users\Gabriel\Documents\Projeto Versat\projetoVersat\obj\Debug\net6.0-windows\CRUD C#.pdb
+C:\Users\Gabriel\Documents\Projeto Versat\projetoVersat\obj\Debug\net6.0-windows\CRUD C#.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\Projeto Versat\projetoVersat\obj\Debug\net6.0-windows\ref\CRUD C#.dll
+C:\Users\Gabriel\Documents\Projeto C#\CRUD C#\bin\Debug\net6.0-windows\CRUD C#.exe
+C:\Users\Gabriel\Documents\Projeto C#\CRUD C#\bin\Debug\net6.0-windows\CRUD C#.deps.json
+C:\Users\Gabriel\Documents\Projeto C#\CRUD C#\bin\Debug\net6.0-windows\CRUD C#.runtimeconfig.json
+C:\Users\Gabriel\Documents\Projeto C#\CRUD C#\bin\Debug\net6.0-windows\CRUD C#.dll
+C:\Users\Gabriel\Documents\Projeto C#\CRUD C#\bin\Debug\net6.0-windows\CRUD C#.pdb
+C:\Users\Gabriel\Documents\Projeto C#\CRUD C#\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Gabriel\Documents\Projeto C#\CRUD C#\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Gabriel\Documents\Projeto C#\CRUD C#\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Gabriel\Documents\Projeto C#\CRUD C#\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Gabriel\Documents\Projeto C#\CRUD C#\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Gabriel\Documents\Projeto C#\CRUD C#\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Gabriel\Documents\Projeto C#\CRUD C#\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Gabriel\Documents\Projeto C#\CRUD C#\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Gabriel\Documents\Projeto C#\CRUD C#\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Gabriel\Documents\Projeto C#\CRUD C#\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Gabriel\Documents\Projeto C#\CRUD C#\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Gabriel\Documents\Projeto C#\CRUD C#\obj\Debug\net6.0-windows\CRUD C#.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Projeto C#\CRUD C#\obj\Debug\net6.0-windows\projetoVersat.Form1.resources
+C:\Users\Gabriel\Documents\Projeto C#\CRUD C#\obj\Debug\net6.0-windows\CRUD C#.csproj.GenerateResource.cache
+C:\Users\Gabriel\Documents\Projeto C#\CRUD C#\obj\Debug\net6.0-windows\CRUD C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\Projeto C#\CRUD C#\obj\Debug\net6.0-windows\CRUD C#.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\Projeto C#\CRUD C#\obj\Debug\net6.0-windows\CRUD C#.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\Projeto C#\CRUD C#\obj\Debug\net6.0-windows\CRUD C#.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Projeto C#\CRUD C#\obj\Debug\net6.0-windows\CRUD C#.csproj.CopyComplete
+C:\Users\Gabriel\Documents\Projeto C#\CRUD C#\obj\Debug\net6.0-windows\CRUD C#.dll
+C:\Users\Gabriel\Documents\Projeto C#\CRUD C#\obj\Debug\net6.0-windows\refint\CRUD C#.dll
+C:\Users\Gabriel\Documents\Projeto C#\CRUD C#\obj\Debug\net6.0-windows\CRUD C#.pdb
+C:\Users\Gabriel\Documents\Projeto C#\CRUD C#\obj\Debug\net6.0-windows\CRUD C#.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\Projeto C#\CRUD C#\obj\Debug\net6.0-windows\ref\CRUD C#.dll
